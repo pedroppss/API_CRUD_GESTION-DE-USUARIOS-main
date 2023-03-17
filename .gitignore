@@ -1,0 +1,5 @@
+node_modules/debug/src/browser.js
+node_modules/debug/src/debug.js
+node_modules/debug/src/index.js
+node_modules/debug/src/inspector-log.js
+node_modules/debug/src/node.js
